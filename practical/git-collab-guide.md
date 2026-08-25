@@ -1384,85 +1384,60 @@ git pull origin main
 
 ```
                     CLASSROOM50
-                         │
-                         ▼
+                         ↓
                 Assignment Repository
-                         │
-                         ▼
+                         ↓
                   Student 1 accepts
-                         │
-                         ▼
+                         ↓
               Student 1 creates project
-                         │
-                         ▼
+                         ↓
                     git init
-                         │
-                         ▼
+                         ↓
                     git add .
-                         │
-                         ▼
+                         ↓
                       commit
-                         │
-                         ▼
+                         ↓
                   branch → main
-                         │
-                         ▼
+                         ↓
                   add remote origin
-                         │
-                         ▼
+                         ↓
         pull --allow-unrelated-histories
-                         │
-                         ▼
-                  push main
-                         │
-                         ▼
+                         ↓
+                    push main
+                         ↓
              Add Students 2 and 3
-                         │
-                         ▼
+                         ↓
                 Students clone
-                         │
-                         ▼
+                         ↓
               ┌──────────┴──────────┐
-              │                     │
-              ▼                     ▼
+              ↓                     ↓
         Student 1 branch      Student 2 branch
-              │                     │
-              ▼                     ▼
+              ↓                     ↓
         Make changes          Make changes
-              │                     │
-              ▼                     ▼
+              ↓                     ↓
           add/commit             add/commit
-              │                     │
-              ▼                     ▼
+              ↓                     ↓
             push                  push
               │                     │
               └──────────┬──────────┘
-                         ▼
+                         ↓
                   Pull Requests
-                         │
-                         ▼
+                         ↓
                       Review
-                         │
-                         ▼
+                         ↓
                       Approve
-                         │
-                         ▼
+                         ↓
                        Merge
-                         │
-                         ▼
+                         ↓
                    Delete branch
-                         │
-                         ▼
+                         ↓
                     Everyone:
                   checkout main
-                         │
-                         ▼
+                         ↓
                   git pull origin main
-                         │
-                         ▼
+                         ↓
                    Next task
-                         │
-                         ▼
+                         ↓
                        REPEAT
 ```
 
@@ -1539,5 +1514,4 @@ This is the workflow you will use throughout the group project.
 - Work on branches.   
 - Review each other's work.  
 - Merge through Pull Requests.  
-- Pull the latest main before starting the next task.
-**
+- Pull the latest main before starting the next task.**
