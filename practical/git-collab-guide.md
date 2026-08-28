@@ -37,6 +37,9 @@ Your job is to:
 4. Invite your group members.
 5. Collaborate using branches and Pull Requests.
 
+**Note:**
+Please remember that when *Student 1* add their fellow group members to the repository > Go to the ****Settings** of the repository and make sure that the group memebers are assigned the **Admin** role as well. This allows full rights to create branches, push, pull requests, etc.  
+
 ---
 
 ## 2. Understanding the Workflow
