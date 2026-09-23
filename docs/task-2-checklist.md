@@ -315,13 +315,13 @@ However assessors will inspect what has already been developed.
 
 Expected structure should closely resemble the recommended structure in the Git workflow guide. 
 
-✓ index.html
-✓ pages folder
-✓ assets folder
-✓ images folder
-✓ stylesheet folder
-✓ JavaScript folder
-✓ README file
+✓ index.html  
+✓ pages folder  
+✓ assets folder  
+✓ images folder  
+✓ stylesheet folder  
+✓ JavaScript folder  
+✓ README file  
 
 ----------
 
@@ -399,7 +399,7 @@ Examples of poor names:
 
 ### Pull Requests
 
-✓ Pull Requests created
+✓ Pull Requests created  
 ✓ Pull Requests contain descriptions  
 ✓ Pull Requests reviewed  
 ✓ Pull Requests approved  
